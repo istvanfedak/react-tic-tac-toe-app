@@ -49,3 +49,6 @@ ol, ul {
   margin-left: 20px;
 }
 
+.square.highlight {
+  background: #82F2A7 
+}
